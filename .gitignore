@@ -1,0 +1,5 @@
+CryptoMarketDataRun.sh
+*/obj
+*/bin
+CryptoMarketData/log4net_example.config
+CryptoMarketData/appsettings_example.json
